@@ -104,6 +104,9 @@ input{
     color: white;
     transition: 0.3s;
     position: relative;
+    padding: 1rem 0.8rem 1rem 0.8rem;
+    font-size: 18px;
+    border-radius: 1rem;
 }
 
 .submit-btn:hover{
